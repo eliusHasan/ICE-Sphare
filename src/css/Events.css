@@ -1,0 +1,9 @@
+.events_next{
+    display: flex !important;
+    flex-direction: row;
+}
+
+.event_next_container {
+    margin-bottom: 50px;
+    box-shadow: 4px 4px 10px #b2acac;
+}

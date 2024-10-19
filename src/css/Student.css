@@ -1,0 +1,11 @@
+.Student_container {
+    
+}
+.Student_container h1 {
+    margin: 30px 0;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline rgb(142, 103, 103);
+    color: red;
+    padding: 5px;
+}

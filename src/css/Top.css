@@ -1,0 +1,13 @@
+.top h1{
+    margin: 0;
+    font-weight: bold;
+    font-size: 48px;
+    color: white;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.top p {
+    color: white;
+}
+.top_btn {
+    margin-bottom: 12px;
+}

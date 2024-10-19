@@ -1,0 +1,28 @@
+.hero h1 {
+    color: black;
+}
+.hero {
+  height: calc(100vh - 64px);
+  background-image: url(../img/bg.jpg);
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero_box {
+    width: 80vw;
+    border-radius: 10px;
+    height: 60vh;
+    text-shadow: 1px 1px 6px rgb(60, 59, 59);
+    /* background-color: black; */
+    padding: 25px;
+    text-align: center;
+    /* opacity: 80%; */
+    box-shadow: 5px 5px 3px #EFC9A0;
+}
+.hero_box h1 {
+    color: black;
+    font-size: 24spx !important;
+}

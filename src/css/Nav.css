@@ -1,0 +1,15 @@
+.menu {
+    font-size: large;
+    padding: 10px 10px;
+}
+.ant-menu{
+    line-height: 50px;
+}
+.ant-menu-item {
+    font-size: large;
+    height: 60px !important;
+    line-height: 60px !important;
+}
+.ant-menu-title-content {
+    font-size: large;
+}
